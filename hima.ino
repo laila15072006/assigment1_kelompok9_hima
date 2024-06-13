@@ -1,4 +1,4 @@
-const int relayPin = 23; // Pin untuk mengontrol relay
+const int relayPin = 4; // Pin untuk mengontrol relay
 
 void setup() {
   // Inisialisasi pin relay sebagai output
